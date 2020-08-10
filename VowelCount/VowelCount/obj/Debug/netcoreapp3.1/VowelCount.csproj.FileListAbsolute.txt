@@ -1,0 +1,13 @@
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.exe
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.deps.json
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.runtimeconfig.json
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.runtimeconfig.dev.json
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.dll
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.pdb
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.csprojAssemblyReference.cache
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.csproj.CoreCompileInputs.cache
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.AssemblyInfoInputs.cache
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.AssemblyInfo.cs
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.dll
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.pdb
+D:\Me\Coding\CodeKata\VowelCount\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.genruntimeconfig.cache
