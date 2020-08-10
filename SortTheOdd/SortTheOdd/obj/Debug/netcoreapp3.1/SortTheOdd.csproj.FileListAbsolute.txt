@@ -1,0 +1,13 @@
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\bin\Debug\netcoreapp3.1\SortTheOdd.exe
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\bin\Debug\netcoreapp3.1\SortTheOdd.deps.json
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\bin\Debug\netcoreapp3.1\SortTheOdd.runtimeconfig.json
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\bin\Debug\netcoreapp3.1\SortTheOdd.runtimeconfig.dev.json
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\bin\Debug\netcoreapp3.1\SortTheOdd.dll
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\bin\Debug\netcoreapp3.1\SortTheOdd.pdb
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\obj\Debug\netcoreapp3.1\SortTheOdd.csprojAssemblyReference.cache
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\obj\Debug\netcoreapp3.1\SortTheOdd.csproj.CoreCompileInputs.cache
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\obj\Debug\netcoreapp3.1\SortTheOdd.AssemblyInfoInputs.cache
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\obj\Debug\netcoreapp3.1\SortTheOdd.AssemblyInfo.cs
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\obj\Debug\netcoreapp3.1\SortTheOdd.dll
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\obj\Debug\netcoreapp3.1\SortTheOdd.pdb
+D:\Me\Coding\CodeKata\SortTheOdd\SortTheOdd\obj\Debug\netcoreapp3.1\SortTheOdd.genruntimeconfig.cache
