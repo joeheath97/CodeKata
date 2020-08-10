@@ -1,0 +1,13 @@
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\bin\Debug\netcoreapp3.1\Who's_Next_in_Line.exe
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\bin\Debug\netcoreapp3.1\Who's_Next_in_Line.deps.json
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\bin\Debug\netcoreapp3.1\Who's_Next_in_Line.runtimeconfig.json
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\bin\Debug\netcoreapp3.1\Who's_Next_in_Line.runtimeconfig.dev.json
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\bin\Debug\netcoreapp3.1\Who's_Next_in_Line.dll
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\bin\Debug\netcoreapp3.1\Who's_Next_in_Line.pdb
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\obj\Debug\netcoreapp3.1\Who's_Next_in_Line.csprojAssemblyReference.cache
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\obj\Debug\netcoreapp3.1\Who's_Next_in_Line.csproj.CoreCompileInputs.cache
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\obj\Debug\netcoreapp3.1\Who's_Next_in_Line.AssemblyInfoInputs.cache
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\obj\Debug\netcoreapp3.1\Who's_Next_in_Line.AssemblyInfo.cs
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\obj\Debug\netcoreapp3.1\Who's_Next_in_Line.dll
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\obj\Debug\netcoreapp3.1\Who's_Next_in_Line.pdb
+D:\Me\Coding\CodeKata\Who's_Next_in_Line\Who's_Next_in_Line\obj\Debug\netcoreapp3.1\Who's_Next_in_Line.genruntimeconfig.cache
