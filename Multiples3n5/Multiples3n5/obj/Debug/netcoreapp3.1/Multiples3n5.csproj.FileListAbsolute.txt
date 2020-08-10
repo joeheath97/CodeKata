@@ -1,0 +1,13 @@
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\bin\Debug\netcoreapp3.1\Multiples3n5.exe
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\bin\Debug\netcoreapp3.1\Multiples3n5.deps.json
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\bin\Debug\netcoreapp3.1\Multiples3n5.runtimeconfig.json
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\bin\Debug\netcoreapp3.1\Multiples3n5.runtimeconfig.dev.json
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\bin\Debug\netcoreapp3.1\Multiples3n5.dll
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\bin\Debug\netcoreapp3.1\Multiples3n5.pdb
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\obj\Debug\netcoreapp3.1\Multiples3n5.csprojAssemblyReference.cache
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\obj\Debug\netcoreapp3.1\Multiples3n5.csproj.CoreCompileInputs.cache
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\obj\Debug\netcoreapp3.1\Multiples3n5.AssemblyInfoInputs.cache
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\obj\Debug\netcoreapp3.1\Multiples3n5.AssemblyInfo.cs
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\obj\Debug\netcoreapp3.1\Multiples3n5.dll
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\obj\Debug\netcoreapp3.1\Multiples3n5.pdb
+D:\Me\Coding\CodeKata\Multiples3n5\Multiples3n5\obj\Debug\netcoreapp3.1\Multiples3n5.genruntimeconfig.cache
