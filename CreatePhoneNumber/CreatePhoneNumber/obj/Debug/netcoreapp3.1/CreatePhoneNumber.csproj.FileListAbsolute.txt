@@ -1,0 +1,13 @@
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.exe
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.deps.json
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.runtimeconfig.json
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.runtimeconfig.dev.json
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.dll
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.pdb
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.csprojAssemblyReference.cache
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.AssemblyInfoInputs.cache
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.AssemblyInfo.cs
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.csproj.CoreCompileInputs.cache
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.dll
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.pdb
+D:\Me\Coding\CodeKata\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.genruntimeconfig.cache
