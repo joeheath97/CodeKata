@@ -1,0 +1,13 @@
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\bin\Debug\netcoreapp3.1\SquaredNumbers.exe
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\bin\Debug\netcoreapp3.1\SquaredNumbers.deps.json
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\bin\Debug\netcoreapp3.1\SquaredNumbers.runtimeconfig.json
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\bin\Debug\netcoreapp3.1\SquaredNumbers.runtimeconfig.dev.json
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\bin\Debug\netcoreapp3.1\SquaredNumbers.dll
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\bin\Debug\netcoreapp3.1\SquaredNumbers.pdb
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\obj\Debug\netcoreapp3.1\SquaredNumbers.csprojAssemblyReference.cache
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\obj\Debug\netcoreapp3.1\SquaredNumbers.AssemblyInfoInputs.cache
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\obj\Debug\netcoreapp3.1\SquaredNumbers.AssemblyInfo.cs
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\obj\Debug\netcoreapp3.1\SquaredNumbers.csproj.CoreCompileInputs.cache
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\obj\Debug\netcoreapp3.1\SquaredNumbers.dll
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\obj\Debug\netcoreapp3.1\SquaredNumbers.pdb
+D:\Me\Coding\LearningC#\Learning Linq\SquaredNumbers\SquaredNumbers\obj\Debug\netcoreapp3.1\SquaredNumbers.genruntimeconfig.cache
