@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d6Hx0Xk95G/f6Ks2j4KEWaYs7bnA+WufMh0o7KrEsm4wZ32AIWHQ9D5fCPszbe3wLo7A48r+ZY8M7PwWm7chIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Me\\Coding\\CodeKata\\DoubleChar\\DoubleChar\\DoubleChar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Joe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
